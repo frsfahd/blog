@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://frsfahd.github.io/blog/posts/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Farras's Blog"
 theme = "tailwind"
 
 [params]
@@ -9,7 +9,7 @@ theme = "tailwind"
   contentTypeName = "posts"
 
   [params.header]
-    logo = "logo.webp"
+    logo = "https://avatars.githubusercontent.com/u/74966938?s=48&v=4"
 
   [params.footer]
     since = 2023
