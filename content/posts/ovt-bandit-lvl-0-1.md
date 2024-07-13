@@ -2,9 +2,9 @@
 title = 'OVT - Bandit Level 0-1'
 date = 2024-07-13T20:55:01+07:00
 draft = false
-tags = ['overthewire','bandit']
-categories = ['security']
-series = ['overthewire-wargames']
+tags = ['OverTheWire','Bandit']
+categories = ['Security']
+series = ['OverTheWire-Wargames']
 +++
 
 # Introduction
